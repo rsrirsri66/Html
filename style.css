@@ -1,0 +1,28 @@
+a{  
+    background-color: aqua;
+    text-align: center;
+    position: fixed;
+    width: 50%;
+    bottom: 180px;
+    right: 10px;
+    
+
+}
+a:visited{
+    color: #918c8c;
+}
+.n1 {
+    color: #1613bd;
+
+
+}
+body{
+    background-color: black;
+    
+    width: 15%;
+    height: auto;
+}
+.image{
+    width: 1080px;
+    height: auto;
+}
